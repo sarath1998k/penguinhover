@@ -229,5 +229,13 @@
     height: 10%;
     border-radius: 50%;
   }
-  
+  .penguin3:hover{
+    transform: rotate(180deg);
+  }
+  .penguin2:hover{
+    transform: rotate(90deg);
+  }
+  .penguin:hover{
+    transform: rotate(-90deg);
+  }
   
